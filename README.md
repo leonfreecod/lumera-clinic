@@ -1,4 +1,4 @@
-# Luméra Estética Avançada
+<img width="1273" height="848" alt="Captura de tela de 2026-07-25 19-27-19" src="https://github.com/user-attachments/assets/8191dc8e-91a0-48ff-ad04-b39c02484db8" />
 
 MVP visual de uma clínica de estética premium com site público, agendamento online e painel administrativo demonstrativo.
 
